@@ -1,0 +1,5 @@
+requests
+streamlit
+fpdf
+python-docx
+gtts
